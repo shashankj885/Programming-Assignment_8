@@ -1,0 +1,62 @@
+
+2022-08-01 23:58:34,883 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-01 23:58:38,217 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:00:18,568 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:00:22,644 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:01:03,946 ERROR Kindly enter non zero positive no.
+2022-08-02 00:01:03,946 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:01:10,829 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:01:14,440 INFO Enter a elements for first matrix Row Wise=
+2022-08-02 00:01:14,440 INFO trying to enter the elements of Matrix1
+2022-08-02 00:01:53,184 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:01:59,135 ERROR Kindly enter non zero positive no.
+2022-08-02 00:01:59,135 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:02:04,036 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:02:23,628 ERROR Kindly enter non zero positive no.
+2022-08-02 00:02:23,628 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:02:31,150 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:02:35,350 INFO Successfully entered the Row and Columns as per defined program
+2022-08-02 00:02:35,350 INFO trying to enter the elements of Matrix1
+2022-08-02 00:02:38,319 INFO trying to print the elements of Matrix1
+2022-08-02 00:02:38,319 INFO trying to enter the elements of Matrix2
+2022-08-02 00:02:41,428 INFO trying to print the elements of Matrix2
+2022-08-02 00:02:48,529 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:02:52,446 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:02:59,146 ERROR Kindly enter non zero positive no.
+2022-08-02 00:02:59,146 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:03:03,522 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:03:07,681 INFO Successfully entered the Row and Columns as per defined program
+2022-08-02 00:03:07,681 INFO trying to enter the elements of Matrix1
+2022-08-02 00:03:11,950 INFO successfully ended the program
+2022-08-02 00:03:17,181 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:04:21,668 ERROR Kindly enter non zero positive no.
+2022-08-02 00:04:21,668 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:04:55,922 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:05:05,552 INFO Successfully entered the Row and Columns as per defined program
+2022-08-02 00:05:05,552 INFO trying to enter the elements of Matrix1
+2022-08-02 00:05:07,412 INFO trying to print the elements of Matrix1
+2022-08-02 00:05:07,412 INFO trying to enter the elements of Matrix2
+2022-08-02 00:05:10,962 ERROR Kindly re-start the program and enter only numerical vales
+2022-08-02 00:05:49,392 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:05:56,258 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:06:10,529 ERROR Kindly enter non zero positive no.
+2022-08-02 00:06:10,529 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:08:04,268 ERROR Kindly enter non zero positive no.
+2022-08-02 00:08:04,268 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:08:14,069 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:08:18,318 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:08:24,336 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:09:30,747 ERROR Kindly enter non zero positive no.
+2022-08-02 00:09:30,747 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:09:36,467 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-02 00:09:40,221 INFO Successfully entered the Row and Columns as per defined program
+2022-08-02 00:09:40,221 INFO trying to enter the elements of Matrix1
+2022-08-02 00:09:42,229 INFO trying to print the elements of Matrix1
+2022-08-02 00:09:42,229 INFO trying to enter the elements of Matrix2
+2022-08-02 00:09:45,960 ERROR Kindly re-start the program and enter only numerical vales
+2022-08-03 22:34:42,975 INFO Trying to get the no. of the Rows and Columns of both the matrix
+2022-08-03 22:34:48,808 INFO Successfully entered the Row and Columns as per defined program
+2022-08-03 22:34:48,808 INFO trying to enter the elements of Matrix1
+2022-08-03 22:34:52,036 INFO trying to print the elements of Matrix1
+2022-08-03 22:34:52,036 INFO trying to enter the elements of Matrix2
+2022-08-03 22:34:55,323 INFO trying to print the elements of Matrix2
